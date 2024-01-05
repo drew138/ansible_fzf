@@ -1,0 +1,3 @@
+---
+ansible_fzf_host_user: "{{ ansible_env.USER }}"
+ansible_fzf_user_home: "{{ ansible_env.HOME }}"
